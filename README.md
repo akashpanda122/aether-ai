@@ -1,11 +1,14 @@
 # Aether AI
 > _A generative AI-powered wallet that maximizes your passive income by automating fund management and yield optimization across multiple blockchains_
 
-![home page](/home/user/aether-ai/Aether-AI.png)
+![home page](https://github.com/akashpanda122/aether-ai/blob/main/Aether-AI.png)
 
 Aether AI is an innovative wallet that leverages generative AI to optimize fund allocation across multiple blockchains, maximizing passive income opportunities for users. Acting as a secure vault, Aether AI not only simplifies blockchain fund management but also enhances functionality with advanced app features, including a burn mechanism for self-regulating tokens. By automating complex processes like yield optimization and multi-chain fund distribution, Aether AI makes blockchain technology more accessible, empowering users to effortlessly increase profitability while benefiting from cutting-edge financial tools.
 
 ## Inspiration
+
+![aether-ai](https://github.com/akashpanda122/aether-ai/blob/main/gallery.jpg)
+
 Managing assets across different blockchains is inherently complex and time-consuming, often fraught with risks, inefficiencies, and the potential for missed opportunities. For users looking to maximize returns and streamline portfolio management, the current manual processes fall short of delivering optimal results.
 
 As the blockchain and cryptocurrency markets continue to expand, attracting both retail and institutional investors, the complexity of managing assets across multiple chains becomes a growing concern. The demand for automated, user-friendly solutions is surging, driven by the need for tools that not only optimize yields but also ensure robust security and seamless multi-chain interoperability.
@@ -21,6 +24,8 @@ Aether AI provides a smart, automated, and user-friendly portfolio management so
 
 ## How we built it
 Aether AI is built with a focus on delivering a smart, automated, and user-friendly portfolio management solution. By leveraging generative AI and multi-chain interoperability, we created a seamless experience for users to optimize yields and manage their assets across various blockchains. Our approach ensures that even the most complex aspects of portfolio management are handled with ease, providing users with a powerful tool to maximize their passive income.
+
+![aether-ai](https://github.com/akashpanda122/aether-ai/blob/main/gallery%20(4).jpg)
 
 ### Aether AI's Features:
 
