@@ -1,6 +1,7 @@
 import { Button } from "@/components/button";
 import starsBg from '@/assets/stars.png';
 import gridLines from '@/assets/grid-lines.png';
+import Link from 'next/link'
 
 export const CallToAction = () => {
   return (
@@ -20,7 +21,11 @@ export const CallToAction = () => {
               Our intelligent vault automates fund allocation and yield optimization, maximizing your returns while you relax.
             </p>
             <div className="flex justify-center mt-8">
-              <Button>Join Waitlist</Button>
+            <Link href="https://aether-ai-home.vercel.app/" passHref={true}>
+              <Button>
+                Join Waitlist
+              </Button>
+            </Link>
             </div>
           </div>
         </div>

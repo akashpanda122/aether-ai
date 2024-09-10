@@ -1,5 +1,6 @@
 import { Button } from "@/components/button";
 import starsBg from "@/assets/stars.png";
+import Link from 'next/link'
 
 export const Hero = () => {
   return (
@@ -39,7 +40,11 @@ export const Hero = () => {
           Experience seamless, secure transaction and embrace the Future of Finance with Aether AI today.
         </p>
         <div className="flex justify-center mt-5">
-          <Button>Join Waitlist</Button>
+          <Link href="https://aether-ai-home.vercel.app/" passHref={true}>
+            <Button>
+                Join Waitlist
+            </Button>
+          </Link>
         </div>
       </div>
     </section>

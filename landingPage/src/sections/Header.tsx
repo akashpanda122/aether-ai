@@ -2,6 +2,7 @@ import LogoIcon from "@/assets/48.png";
 import MenuIcon from "@/assets/icon-menu.svg";
 import { Button } from "@/components/button";
 import Image from 'next/image';
+import Link from 'next/link'
 
 export const Header = () => {
   return (
@@ -25,7 +26,11 @@ export const Header = () => {
             </nav>
           </div>
           <div className="flex gap-4 items-center">
-            <Button>Magic Wallet</Button>
+            <Link href="https://aether-ai-home.vercel.app/" passHref={true}>
+              <Button>
+                  Magic Wallet
+              </Button>
+            </Link>
             <MenuIcon className="md:hidden" />
           </div>
         </div>
