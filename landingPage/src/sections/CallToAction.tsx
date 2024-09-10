@@ -17,7 +17,7 @@ export const CallToAction = () => {
               Maximize Crypto Portfolio Performance Today!
             </h2>
             <p className="text-center text-lg md:text-xl max-w-md mx-auto text-white/70 px-4 mt-5 tracking-tight">
-              Magnis amet vulputate sollicitudin taciti convallis pharetra netus adipiscing.
+              Our intelligent vault automates fund allocation and yield optimization, maximizing your returns while you relax.
             </p>
             <div className="flex justify-center mt-8">
               <Button>Join Waitlist</Button>

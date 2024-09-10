@@ -38,7 +38,7 @@ export const Features = () => {
           Transform your Wealth with Aether AI
         </h2>
         <p className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto tracking-tight text-center mt-5">
-          We employ CuttingEdge Encryption Technology To Safeguard your digital assets with Aether AI solution
+          We employ Cutting Edge Encryption Technology To Safeguard your digital assets with Aether AI solution
         </p>
         <div className="mt-10 flex flex-col lg:flex-row gap-3">
           {tabs.map(tab => (
